@@ -1,2 +1,2 @@
-# Hoc
+# HOC
 Created with CodeSandbox
